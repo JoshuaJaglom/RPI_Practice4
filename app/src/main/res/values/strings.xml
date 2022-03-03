@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Проверка знаний</string>
+    <string name="title">Переводчик единиц длины</string>
+    <string name="km">километров</string>
+    <string name="m">метров</string>
+    <string name="dm">дециметров</string>
+    <string name="sm">сантиметров</string>
+    <string name="mm">миллиметров</string>
+    <string name="inspect">Проверить</string>
+    <string name="good">Отлично!</string>
+    <string name="bad">Повторите материал, ответ неверный!</string>
+    <string name="EtKM">в км</string>
+    <string name="EtM">в м</string>
+    <string name="EtDM">в дм</string>
+    <string name="EtCM">в см</string>
+    <string name="EtMM">в мм</string>
+</resources>
